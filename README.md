@@ -1,4 +1,4 @@
-# Bank-Loan-Risk-Profitability-Anaysis (Using Excel & SQL Server)
+# Bank-Loan-Risk-Profitability-Analysis (Using Excel & SQL Server)
 
 ## Project Objective
 This project analyzes loan application data to evaluate lending risk and profitability using interactive Excel dashboards. It provides insights into borrower behavior, loan performance, and key financial metrics to support data-driven lending decisions.
