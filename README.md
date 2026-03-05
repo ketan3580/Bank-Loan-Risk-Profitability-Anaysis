@@ -1,6 +1,6 @@
 # Bank-Loan-Risk-Profitability-Anaysis (Using Excel & SQL Server)
 
-## Project Overview 
+## Project Objective
 This project analyzes loan application data to evaluate lending risk and profitability using interactive Excel dashboards. It provides insights into borrower behavior, loan performance, and key financial metrics to support data-driven lending decisions.
 
 ## Dataset Used 
@@ -62,3 +62,11 @@ Do certain states show higher loan applications and better repayment rates?
 - Most loan applications are for 36-month terms
 - Debt consolidation and credit card repayment are the most common loan purposes
 
+## Purose of the project 
+- Data Analysis using Excel
+- Identify Credit Risk
+- Evaluate Profitability
+- Support Decision Making
+
+## Final Conclusion
+The analysis reveals key patterns in borrower behavior, loan performance, and Loan credit risk across the lending portfolio. These insights help support data-driven decisions to improve lending strategies and manage loan risk effectively
