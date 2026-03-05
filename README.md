@@ -62,7 +62,7 @@ Do certain states show higher loan applications and better repayment rates?
 - Most loan applications are for 36-month terms
 - Debt consolidation and credit card repayment are the most common loan purposes
 
-## Purose of the project 
+## Purpose of the project 
 - Data Analysis using Excel
 - Identify Credit Risk
 - Evaluate Profitability
